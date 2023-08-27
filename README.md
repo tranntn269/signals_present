@@ -24,7 +24,7 @@ _Why choose this name although now is September? Because Signals is the new feat
     - None of its parents and none of its children.
     - One and only one component that needs to display changed data
 - So, the question is: “Are we going to have another change detection strategy?”.
-- :heavy_check_mark:	 That’s a problem that Signals solve for us.
+- :heavy_check_mark:	 That’s a problem that Signals solves for us.
 #### 4.	Manage RxJS traffic with Signals.
 :point_right: _Talk about signals and RxJS._
 - Problems: 2 subscribers to 1 Observable.
