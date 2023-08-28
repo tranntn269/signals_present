@@ -1,4 +1,4 @@
-## Talk Title: Signals- The Gem of May :gem: :gem: :gem:
+## Talk Title: Signals- The Gems of May :gem: :gem: :gem:
 _Why choose this name although now is September? Because Signals is the new feature of Angular 16, which is released on May 2023._
 ### Talk Description: ~ 15 mins
 #### 1.	**5W1H** in Signals.
